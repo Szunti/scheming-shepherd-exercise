@@ -1,5 +1,7 @@
 # Zsivány juhász feladat
 
+Megoldás: solution branch-ban
+
 Legyen három osztályunk: Shepherd, Herd, Dog.
 
 ### Herd osztály
